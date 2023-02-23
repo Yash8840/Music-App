@@ -59,7 +59,7 @@ nav ul li{
     position: sticky;
     bottom: 0;
     height: 130px;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.24);
     color: white;
     display: flex;
     justify-content: center;
